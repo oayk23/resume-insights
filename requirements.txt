@@ -1,0 +1,4 @@
+transformers==4.51.0
+pdf2image
+gradio
+torch
